@@ -32,13 +32,7 @@ public class Tracker {
         } catch (Exception e) {
 
         }
-
-        boolean valid = false;
-
-        if (valid = true) {
-            // whatever
-        }
-
+ 
         return entries.get(index);
     }
 }
